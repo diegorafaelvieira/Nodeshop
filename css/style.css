@@ -49,5 +49,5 @@ p {font-size: 1em; color: #777;}
 .newsletter button {width: 18%; background-color: #fff; padding: 15px 10px; border-radius: 5px; float: right; cursor: pointer;}
 
 /* RODAPÉ */
-.rodape {width: 100%; float: left; background-color: #13c7ae; padding: 20px 8px;}
+.rodape {width: 100%; float: left; background-color: #13c7ae; padding: 20px 8px; text-align: center;}
 .rodape p {color: #fff;}
